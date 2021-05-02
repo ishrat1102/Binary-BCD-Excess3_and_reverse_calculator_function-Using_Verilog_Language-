@@ -9,4 +9,4 @@ It can be used as calculator function.
 
 There is a circuit for it also included.
 
-There is also .vwf file to check the converter works perfectly
+There is also .vwf file to check the converter works perfectly.
